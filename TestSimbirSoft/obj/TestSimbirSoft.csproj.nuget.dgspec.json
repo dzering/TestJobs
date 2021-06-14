@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fire\\Desktop\\TestTask\\TestSimbirSoft\\TestSimbirSoft.csproj": {}
+    "C:\\Users\\Fire\\Desktop\\TestJobs\\TestSimbirSoft\\TestSimbirSoft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fire\\Desktop\\TestTask\\TestSimbirSoft\\TestSimbirSoft.csproj": {
+    "C:\\Users\\Fire\\Desktop\\TestJobs\\TestSimbirSoft\\TestSimbirSoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fire\\Desktop\\TestTask\\TestSimbirSoft\\TestSimbirSoft.csproj",
+        "projectUniqueName": "C:\\Users\\Fire\\Desktop\\TestJobs\\TestSimbirSoft\\TestSimbirSoft.csproj",
         "projectName": "TestSimbirSoft",
-        "projectPath": "C:\\Users\\Fire\\Desktop\\TestTask\\TestSimbirSoft\\TestSimbirSoft.csproj",
+        "projectPath": "C:\\Users\\Fire\\Desktop\\TestJobs\\TestSimbirSoft\\TestSimbirSoft.csproj",
         "packagesPath": "C:\\Users\\Fire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fire\\Desktop\\TestTask\\TestSimbirSoft\\obj\\",
+        "outputPath": "C:\\Users\\Fire\\Desktop\\TestJobs\\TestSimbirSoft\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fire\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,3 +16,21 @@ C:\Голубев\2_Дополнительное обучение\TestSimbirsoft
 C:\Голубев\2_Дополнительное обучение\TestSimbirsoft\TestSimbirSoft\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.genruntimeconfig.cache
 C:\Голубев\2_Дополнительное обучение\TestSimbirsoft\TestSimbirSoft\TestSimbirSoft\bin\Debug\net5.0\HtmlAgilityPack.dll
 C:\Голубев\2_Дополнительное обучение\TestSimbirsoft\TestSimbirSoft\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.csproj.CopyComplete
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\TestSimbirSoft.exe
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\TestSimbirSoft.deps.json
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\TestSimbirSoft.runtimeconfig.json
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\TestSimbirSoft.runtimeconfig.dev.json
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\TestSimbirSoft.dll
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\ref\TestSimbirSoft.dll
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\TestSimbirSoft.pdb
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.csprojAssemblyReference.cache
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.AssemblyInfoInputs.cache
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.AssemblyInfo.cs
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.csproj.CoreCompileInputs.cache
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.csproj.CopyComplete
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.dll
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\ref\TestSimbirSoft.dll
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.pdb
+C:\Users\Fire\Desktop\TestJobs\TestSimbirSoft\obj\Debug\net5.0\TestSimbirSoft.genruntimeconfig.cache

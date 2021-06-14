@@ -14,14 +14,13 @@ namespace TestSimbirSoft
             {
                 name = "index.html";
             }
+            if(lastElArray == url)
+            {
+                name = "index.html";
+            }
             return name;
         }
 
-        /// <summary>
-        /// Получает страницу из интернета. Сохраняет в файл.
-        /// </summary>
-        /// <param name="url">Полный url страницы для скачивания</param>
-        /// <returns></returns>
         public Stream GetPage(string url)
         {
             string fileName = GetFileName(url);

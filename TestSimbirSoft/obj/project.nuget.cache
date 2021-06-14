@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L1gvVyno+jWH/7w38eGThOKuSZJ0/fHFMHDMkNbUpT0+9OiDdK17WLEHCKmW/tswx/8pCUd+snOW+8S+9ndJMw==",
+  "dgSpecHash": "OJ1i+xQZB6er84EO/cnR+kb8PZl94XXNi+hAM29N8j/wIe+J9TQXlpDXBZ20dJPd4oiTlV7OeIezv5SZHeYVTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fire\\Desktop\\TestTask\\TestSimbirSoft\\TestSimbirSoft.csproj",
+  "projectFilePath": "C:\\Users\\Fire\\Desktop\\TestJobs\\TestSimbirSoft\\TestSimbirSoft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fire\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512"
   ],

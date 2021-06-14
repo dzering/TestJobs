@@ -11,15 +11,19 @@ namespace TestSimbirSoft
     {
         static void Main(string[] args)
         {
-            WebClientService wcs = new WebClientService();
-            Stream stream = wcs.GetPage("https://www.simbirsoft.com/");
+            Console.WriteLine("Введите адресс страницы WWW.");
+            string fileName = Console.ReadLine();   
 
+            WebClientService wcs = new WebClientService();
             HtmlProcessing hp = new HtmlProcessing();
+            TextHandler th = new TextHandler();
+
+            Stream stream = wcs.GetPage(fileName);
             string text = hp.GetText(stream);
 
             Console.WriteLine(text);
 
-            TextHandler th = new TextHandler();
+            
             Dictionary<string, int> dictionary = th.GetWordsStatistic(text);
 
             foreach (var item in dictionary)
