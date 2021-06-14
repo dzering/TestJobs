@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ1i+xQZB6er84EO/cnR+kb8PZl94XXNi+hAM29N8j/wIe+J9TQXlpDXBZ20dJPd4oiTlV7OeIezv5SZHeYVTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fire\\Desktop\\TestJobs\\TestSimbirSoft\\TestSimbirSoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fire\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512"
+  ],
+  "logs": []
+}
